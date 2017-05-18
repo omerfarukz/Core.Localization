@@ -1,4 +1,4 @@
-# Missing localization library for dotnet core 
+# Localization library for dotnet core 
 Localization library for dotnet core. Supports xml, json and any other types like Dictionary<string, string>.
 
 ## Setup
