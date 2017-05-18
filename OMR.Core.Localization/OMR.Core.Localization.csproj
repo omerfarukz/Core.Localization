@@ -8,6 +8,7 @@
     <Authors>Omer Faruk Zorlu</Authors>
     <Owners>Omer Faruk Zorlu</Owners>
     <Title>Dotnet Core Localization</Title>
+    <Description>Localization support for dotnet core applications</Description>
   </PropertyGroup>
 
   <ItemGroup>
