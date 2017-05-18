@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Xml\" />
+    <Folder Include="Json\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OMR.Core.Localization\OMR.Core.Localization.csproj" />
+  </ItemGroup>
+</Project>

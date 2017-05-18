@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Manager\" />
+    <Folder Include="Context\" />
+    <Folder Include="Source\" />
+    <Folder Include="Localizable\" />
+    <Folder Include="Source\Xml\" />
+    <Folder Include="Source\Json\" />
+    <Folder Include="Source\Base\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="LocalizationSourceBase.cs" />
+  </ItemGroup>
+</Project>

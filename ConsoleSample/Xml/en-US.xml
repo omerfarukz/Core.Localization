@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<localization>
+	<strings>
+		<string name="name3" value="hello xml" />
+		<string name="name4" value="greetings" />
+	</strings>
+</localization>
