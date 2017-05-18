@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMR.Core.Localization", "OMR.Core.Localization\OMR.Core.Localization.csproj", "{C0F05586-68C5-4B65-902E-78BB13696549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMR.Core.Localization.Tests", "OMR.Core.Localization.Tests\OMR.Core.Localization.Tests.csproj", "{C272DEF9-84E8-443F-939F-EFFA56C8B0EA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSample", "ConsoleSample\ConsoleSample.csproj", "{A6817B03-1B1F-4E00-AD3A-7B8BC0DDF286}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{C0F05586-68C5-4B65-902E-78BB13696549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F05586-68C5-4B65-902E-78BB13696549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0F05586-68C5-4B65-902E-78BB13696549}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C272DEF9-84E8-443F-939F-EFFA56C8B0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C272DEF9-84E8-443F-939F-EFFA56C8B0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C272DEF9-84E8-443F-939F-EFFA56C8B0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C272DEF9-84E8-443F-939F-EFFA56C8B0EA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A6817B03-1B1F-4E00-AD3A-7B8BC0DDF286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A6817B03-1B1F-4E00-AD3A-7B8BC0DDF286}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6817B03-1B1F-4E00-AD3A-7B8BC0DDF286}.Release|Any CPU.ActiveCfg = Release|Any CPU
