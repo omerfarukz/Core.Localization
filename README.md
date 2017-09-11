@@ -8,7 +8,7 @@ Localization library for dotnet core. Supports xml, json and any other types lik
       new XmlDirectoryLocalizationSource("localizations/others/xml"),
       new XmlLocalizationSource("localizations/main.xml", new CultureInfo("tr-TR")),
       new JsonDirectoryLocalizationSource("localizations/others/json"),
-      new JsonLocalizationSource("localizations/main.xml", new CultureInfo("en-US"))
+      new JsonLocalizationSource("localizations/main.json", new CultureInfo("en-US"))
   };
 ```
 
